@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+.world {
+    color: white;
+    height: 55rem;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
